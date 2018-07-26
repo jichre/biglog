@@ -1,2 +1,3 @@
 # biglog
-A simple accept http post log, and write in disk
+A simple accept http post log, and write in disk.
+You can read from disk and send to kafka or ...
